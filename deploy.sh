@@ -22,3 +22,11 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+git add .
+git rm --cached public/
+
+git commit -m "$1 `date`"
+
+git push origin master
+
