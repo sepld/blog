@@ -1,0 +1,45 @@
+INFO [11-19|06:23:01.338] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [11-19|06:23:01.340] Starting peer-to-peer node               instance=Geth/v1.8.18-unstable-f08f596a/linux-amd64/go1.10.3
+INFO [11-19|06:23:01.341] Allocated cache and file handles         database=/home/ld/.ethereum/testnet/geth/chaindata cache=768 handles=512
+INFO [11-19|06:23:01.770] Persisted trie from memory database      nodes=355 size=51.89kB time=1.012204ms gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [11-19|06:23:01.772] Initialised chain configuration          config="{ChainID: 3 Homestead: 0 DAO: <nil> DAOSupport: true EIP150: 0 EIP155: 10 EIP158: 10 Byzantium: 1700000 Constantinople: 4230000 Engine: ethash}"
+INFO [11-19|06:23:01.773] Disk storage enabled for ethash caches   dir=/home/ld/.ethereum/testnet/geth/ethash count=3
+INFO [11-19|06:23:01.773] Disk storage enabled for ethash DAGs     dir=/home/ld/.ethash                       count=2
+INFO [11-19|06:23:01.774] Initialising Ethereum protocol           versions="[63 62]" network=3
+INFO [11-19|06:23:01.776] Loaded most recent local header          number=11392 hash=f26859…114424 td=87538764987 age=2y1w1d
+INFO [11-19|06:23:01.776] Loaded most recent local full block      number=0     hash=419410…ca4a2d td=1048576     age=49y7mo4d
+INFO [11-19|06:23:01.778] Loaded most recent local fast block      number=11392 hash=f26859…114424 td=87538764987 age=2y1w1d
+INFO [11-19|06:23:01.780] Loaded local transaction journal         transactions=0 dropped=0
+INFO [11-19|06:23:01.780] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-19|06:23:01.782] Upgrading chain index                    type=bloombits percentage=0
+Fatal: Error starting protocol stack: listen tcp :30303: bind: address already in use
+INFO [11-19|06:23:24.510] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [11-19|06:23:24.513] Starting peer-to-peer node               instance=Geth/v1.8.18-unstable-f08f596a/linux-amd64/go1.10.3
+INFO [11-19|06:23:24.513] Allocated cache and file handles         database=/home/ld/.ethereum/testnet/geth/chaindata cache=768 handles=512
+INFO [11-19|06:23:24.568] Persisted trie from memory database      nodes=355 size=51.89kB time=1.408451ms gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [11-19|06:23:24.569] Initialised chain configuration          config="{ChainID: 3 Homestead: 0 DAO: <nil> DAOSupport: true EIP150: 0 EIP155: 10 EIP158: 10 Byzantium: 1700000 Constantinople: 4230000 Engine: ethash}"
+INFO [11-19|06:23:24.569] Disk storage enabled for ethash caches   dir=/home/ld/.ethereum/testnet/geth/ethash count=3
+INFO [11-19|06:23:24.569] Disk storage enabled for ethash DAGs     dir=/home/ld/.ethash                       count=2
+INFO [11-19|06:23:24.569] Initialising Ethereum protocol           versions="[63 62]" network=3
+INFO [11-19|06:23:24.569] Loaded most recent local header          number=11392 hash=f26859…114424 td=87538764987 age=2y1w1d
+INFO [11-19|06:23:24.569] Loaded most recent local full block      number=0     hash=419410…ca4a2d td=1048576     age=49y7mo4d
+INFO [11-19|06:23:24.569] Loaded most recent local fast block      number=11392 hash=f26859…114424 td=87538764987 age=2y1w1d
+INFO [11-19|06:23:24.569] Loaded local transaction journal         transactions=0 dropped=0
+INFO [11-19|06:23:24.569] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-19|06:23:24.572] Upgrading chain index                    type=bloombits percentage=0
+Fatal: Error starting protocol stack: listen tcp :30303: bind: address already in use
+INFO [11-19|06:23:28.654] Maximum peer count                       ETH=25 LES=0 total=25
+INFO [11-19|06:23:28.667] Starting peer-to-peer node               instance=Geth/v1.8.18-unstable-f08f596a/linux-amd64/go1.10.3
+INFO [11-19|06:23:28.667] Allocated cache and file handles         database=/home/ld/.ethereum/testnet/geth/chaindata cache=768 handles=512
+INFO [11-19|06:23:28.717] Persisted trie from memory database      nodes=355 size=51.89kB time=1.294747ms gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [11-19|06:23:28.721] Initialised chain configuration          config="{ChainID: 3 Homestead: 0 DAO: <nil> DAOSupport: true EIP150: 0 EIP155: 10 EIP158: 10 Byzantium: 1700000 Constantinople: 4230000 Engine: ethash}"
+INFO [11-19|06:23:28.721] Disk storage enabled for ethash caches   dir=/home/ld/.ethereum/testnet/geth/ethash count=3
+INFO [11-19|06:23:28.721] Disk storage enabled for ethash DAGs     dir=/home/ld/.ethash                       count=2
+INFO [11-19|06:23:28.721] Initialising Ethereum protocol           versions="[63 62]" network=3
+INFO [11-19|06:23:28.722] Loaded most recent local header          number=11392 hash=f26859…114424 td=87538764987 age=2y1w1d
+INFO [11-19|06:23:28.722] Loaded most recent local full block      number=0     hash=419410…ca4a2d td=1048576     age=49y7mo4d
+INFO [11-19|06:23:28.722] Loaded most recent local fast block      number=11392 hash=f26859…114424 td=87538764987 age=2y1w1d
+INFO [11-19|06:23:28.722] Loaded local transaction journal         transactions=0 dropped=0
+INFO [11-19|06:23:28.722] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-19|06:23:28.724] Upgrading chain index                    type=bloombits percentage=0
+Fatal: Error starting protocol stack: listen tcp :30303: bind: address already in use
