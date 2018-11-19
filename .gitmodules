@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:sepld/sepld.github.io.git
