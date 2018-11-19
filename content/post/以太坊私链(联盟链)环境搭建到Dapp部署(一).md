@@ -34,8 +34,10 @@ author: "sepld"
 3. 添加环境变量，执行下列命令
 
 ```
-vi ~/.profile    // 打开家目录下 .profile 文件
-export PATH=$PATH:/usr/local/go/bin   // 在文件最下面添加此行，然后保存退出
+// 打开家目录下 .profile 文件
+vi ~/.profile
+// 在文件最下面添加此行，然后保存退出
+export PATH=$PATH:/usr/local/go/bin
 source ~/.profile  // 更改文件使生效
 ```
 
@@ -48,10 +50,12 @@ source ~/.profile  // 更改文件使生效
 这里使用的是go版本客户端
 #### 步骤
 1. 克隆仓库
+
 ```
 git clone https://github.com/ethereum/go-ethereum.git
 ```
 2. 编译
+
 ```
 cd go-ethereum
 
